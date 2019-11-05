@@ -2,7 +2,7 @@
 
 APS Failure at Scania Trucks: 76,000 instances, 171 attributes
 
-I have used Random Forest Trees, Weka Logistic Model Tree, and Weka Logistic Model Tree SMOTE
+I have used Random Forest Trees, Weka Logistic Model Tree, and Weka Logistic Model Tree with SMOTE
 
 The dataset consists of data collected from heavy Scania trucks in everyday usage. 
 
