@@ -1,6 +1,6 @@
 # Scania Trucking
 
-APS Failure at Scania Trucks: 76,000 instances, 171 attributes
+Air Pressure System (APS) Failure at Scania Trucks: 76,000 instances, 171 attributes
 
 I have used Random Forest Trees, Weka Logistic Model Tree, and Weka Logistic Model Tree with SMOTE
 
